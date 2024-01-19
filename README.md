@@ -20,4 +20,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Tasks.js é um To-Do app para gerenciamento de suas tarefas. As tarefas ficam salvas no localStorage para serem acessadas mesmo após fechamento do site.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://gustavo-sales.github.io/Tasks.js/)
